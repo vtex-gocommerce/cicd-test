@@ -1,0 +1,9 @@
+{
+  "name": "go-potato",
+  "vendor": "gocommerce",
+  "version": "0.0.0",
+  "builders": {
+    "node": "4.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
