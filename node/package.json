@@ -5,7 +5,7 @@
     "lint": "tsc --noEmit && tslint -c tslint.json './**/*.ts'"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "axios-retry": "^3.1.1",
     "co-body": "^6.0.0",
     "koa": "^2.5.2",
